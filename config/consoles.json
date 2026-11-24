@@ -1,0 +1,9 @@
+{
+    "NES": "~/ROMs/NES",
+    "FAMICOM": "~/ROMs/FDS",
+    "SNES": "~/ROMs/SNES",
+    "Game Boy": "~/ROMs/GB",
+    "Game Boy Color": "~/ROMs/GBC",
+    "Game Boy Advance": "~/ROMs/GBA",
+    "Nintendo 64": "~/ROMs/N64"
+}
